@@ -73,3 +73,17 @@ jupyter notebook kde_gmm_burguer_master.ipynb
 | `geopandas` / `osmnx` / `shapely` | Datos y geometrías geoespaciales |
 | `matplotlib` / `seaborn` | Visualizaciones estáticas (elipses de covarianza, contornos) |
 | `branca` | Escalas de color para mapas Folium |
+
+---
+
+## Contexto Académico
+
+Este proyecto fue desarrollado como parte del programa de **Maestría en Inteligencia Analítica de Datos (MIAD)** de la Universidad de los Andes, Colombia.
+
+---
+
+## Autor
+
+**Joaquín Abondano Araoz** - Data Analytics · AI & Automation · Strategic Planning
+
+[Website](https://joaquinabondano.com) · [LinkedIn](https://linkedin.com/in/joaquin-abondano) · [GitHub](https://github.com/jabondanoaraoz)
